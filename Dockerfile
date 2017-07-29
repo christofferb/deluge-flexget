@@ -20,6 +20,7 @@ RUN \
   p7zip \
   unrar \
   unzip \
+  curl \
   cifs-utils \
   nano && \
  apk add --no-cache \
